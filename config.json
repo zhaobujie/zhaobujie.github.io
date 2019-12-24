@@ -4,7 +4,7 @@
     "client_id": "c1ad168015e97192493a",
     "client_secret": "3454f1b4dfc423ca521210c1ff6adcb57c329370",
     "title": "TT PP is ALL",
-    "instruction": "基于GitHub issue的个人博客",
+    "instruction": "棠棠沛沛爱生活",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "filter": {
         "creator": "all",
@@ -19,7 +19,7 @@
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://github.com/imuncle/gitblog",
+            "href" : "https://github.com/zhaobujie/zhaobujie.github.io",
             "hidden_img" : null,
             "width" : 0
         }
