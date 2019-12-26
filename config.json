@@ -11,7 +11,12 @@
         "state": "open"
     },
     "menu": {
-        "首页":"./"
+        "首页":"./",
+        "linux" : "issue_per_label.html?label=linux",
+        "golang" : "issue_per_label.html?label=linux",
+        "dpdk" : "issue_per_label.html?label=linux",
+        "dns" : "issue_per_label.html?label=linux",
+        "net" : "issue_per_label.html?label=linux"
     },
     "friends": {
         "zttpp" : "http://blog.zttpp.com"
